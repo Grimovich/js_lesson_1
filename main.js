@@ -126,6 +126,7 @@ strReplace = strReplace.replace('рама', 'Рама');
 strReplace = strReplace.replace('мыла', 'держит');
 console.log('strReplace:', strReplace);
 
+
 /*
 * #9
 *
